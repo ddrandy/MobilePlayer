@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_video" type="id"/>
+    <item name="main_audio" type="id"/>
+    <item name="main_indicator" type="id"/>
+    <item name="view_pager" type="id"/>
+</resources>
