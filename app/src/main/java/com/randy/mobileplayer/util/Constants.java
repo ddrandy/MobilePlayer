@@ -12,4 +12,9 @@ public class Constants {
      * define if debug mode
      */
     public static final boolean DEBUG_MODE = true;
+
+    /**
+     * video item key
+     */
+    public static final String KEY_VIDEO_ITEM = "video_item";
 }

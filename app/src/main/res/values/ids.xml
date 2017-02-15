@@ -4,5 +4,5 @@
     <item name="main_audio" type="id"/>
     <item name="main_indicator" type="id"/>
     <item name="view_pager" type="id"/>
-    <item name="lv_video" type="id"/>
+    <item name="lv_video_list" type="id"/>
 </resources>
